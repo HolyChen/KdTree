@@ -1,2 +1,2 @@
 # K-d Tree
-K-d Tree implemented in python3
+K-d Tree implemented in python 3.5
